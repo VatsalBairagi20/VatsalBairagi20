@@ -1,6 +1,6 @@
 # 👋 Hello world! I'm Vatsal Bairagi
 
-[cite_start]I'm a Web Developer specializing in **React.js, Flask, MongoDB, and Next.js**[cite: 4]. [cite_start]I love building responsive, data-driven web applications and have a passion for creating seamless user experiences from concept to deployment[cite: 5].
+I'm a Web Developer specializing in **React.js, Flask, MongoDB, and Next.js**. I love building responsive, data-driven web applications and have a passion for creating seamless user experiences from concept to deployment.
 
 <p align="center">
   <a href="https://vatsalbairagi20.netlify.app" target="_blank">
@@ -8,10 +8,10 @@
   </a>
 </p>
 
-- [cite_start]🚀 Delivered **7+ deployed full-stack projects** serving real users[cite: 4, 47].
-- [cite_start]🏆 Ranked in the **top 15% on HackerRank's React.js** Skill Certification[cite: 48].
-- [cite_start]📱 Built a cross-platform mobile app using **React Native** with a **Python Flask** backend[cite: 46].
-- [cite_start]🌱 I’m currently pursuing a B.Tech in Computer Science at **Parul University** (2022-2026)[cite: 11, 12].
+- 🚀 Delivered **7+ deployed full-stack projects** serving real users.
+- 🏆 Ranked in the **top 15% on HackerRank's React.js** Skill Certification.
+- 📱 Built a cross-platform mobile app using **React Native** with a **Python Flask** backend.
+- 🌱 I’m currently pursuing a B.Tech in Computer Science at **Parul University** (2022-2026).
 
 ---
 
@@ -32,7 +32,7 @@
 <td width="33%">
 <h3 align="center">Wallpapers Hub</h3>
 <div align="center">
-[cite_start]<p>A responsive wallpaper app using the Pixabay API that drove over 1,000 downloads[cite: 18, 24].</p>
+<p>A responsive wallpaper app using the Pixabay API that drove over 1,000 downloads.</p>
 <p>
 <a href="https://github.com/VatsalBairagi20/Wallpaper-Hub" target="_blank"><strong>Code</strong></a> | 
 <a href="https://wallpapershub.netlify.app" target="_blank"><strong>Live Demo</strong></a>
@@ -43,7 +43,7 @@
 <td width="33%">
 <h3 align="center">Personal Portfolio</h3>
 <div align="center">
-[cite_start]<p>My personal portfolio showcasing 7+ projects, with optimized load speeds via code-splitting[cite: 26, 27, 28].</p>
+<p>My personal portfolio showcasing 7+ projects, with optimized load speeds via code-splitting.</p>
 <p>
 <a href="https://github.com/VatsalBairagi20/Protfolio-V2" target="_blank"><strong>Code</strong></a> | 
 <a href="https://vatsalbairagi20.netlify.app" target="_blank"><strong>Live Demo</strong></a>
@@ -54,7 +54,7 @@
 <td width="33%">
 <h3 align="center">Smart Saver (Android)</h3>
 <div align="center">
-[cite_start]<p>A cross-platform savings app with a Python Flask backend for user data and authentication[cite: 32, 33].</p>
+<p>A cross-platform savings app with a Python Flask backend for user data and authentication.</p>
 <p>
 <a href="https://github.com/VatsalBairagi20/Smart-Saver-V1" target="_blank"><strong>Code</strong></a> | 
 <a href="https://smartsaverv1.netlify.app" target="_blank"><strong>Live Demo</strong></a>
@@ -99,10 +99,10 @@
 ---
 
 ## 📜 Certifications
-- [cite_start]**Frontend Developer (React.js)** - *HackerRank* [cite: 36]
-- [cite_start]**Computer Networks & Internet Protocol** - *IIT Kharagpur* [cite: 43]
-- [cite_start]**Data Analytics Virtual Program** - *Deloitte Forage* [cite: 38]
-- [cite_start]**Software Engineering Job Simulation** - *Accenture Forage* [cite: 40, 42]
+- **Frontend Developer (React.js)** - *HackerRank*
+- **Computer Networks & Internet Protocol** - *IIT Kharagpur*
+- **Data Analytics Virtual Program** - *Deloitte Forage*
+- **Software Engineering Job Simulation** - *Accenture Forage*
 
 ---
 
